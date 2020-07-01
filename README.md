@@ -90,4 +90,5 @@ yarn lintfix
 
 - notes : 笔记
 - vue-app-base : 使用 webpack 完成构建的一个 vue 项目
+- sample.mp4 : vue-app-base 项目的简单演示视频
 
